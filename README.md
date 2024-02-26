@@ -1,1 +1,3 @@
-# Node2
+# Node
+
+Curso de Fernando Herrera de Legacy: Node 0 a experto
